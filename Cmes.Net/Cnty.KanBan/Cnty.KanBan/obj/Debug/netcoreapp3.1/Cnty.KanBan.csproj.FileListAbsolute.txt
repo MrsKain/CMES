@@ -1,0 +1,9 @@
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\bin\Debug\netcoreapp3.1\Cnty.KanBan.deps.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\bin\Debug\netcoreapp3.1\Cnty.KanBan.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\bin\Debug\netcoreapp3.1\Cnty.KanBan.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\obj\Debug\netcoreapp3.1\Cnty.KanBan.AssemblyInfoInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\obj\Debug\netcoreapp3.1\Cnty.KanBan.AssemblyInfo.cs
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\obj\Debug\netcoreapp3.1\Cnty.KanBan.csproj.CoreCompileInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\obj\Debug\netcoreapp3.1\Cnty.KanBan.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\obj\Debug\netcoreapp3.1\Cnty.KanBan.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.KanBan\Cnty.KanBan\obj\Debug\netcoreapp3.1\Cnty.KanBan.csproj.AssemblyReference.cache

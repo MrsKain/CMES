@@ -1,0 +1,9 @@
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\bin\Debug\netstandard2.0\Cnty.QuartzExtensions.deps.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\bin\Debug\netstandard2.0\Cnty.QuartzExtensions.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\bin\Debug\netstandard2.0\Cnty.QuartzExtensions.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\obj\Debug\netstandard2.0\Cnty.QuartzExtensions.csproj.AssemblyReference.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\obj\Debug\netstandard2.0\Cnty.QuartzExtensions.AssemblyInfoInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\obj\Debug\netstandard2.0\Cnty.QuartzExtensions.AssemblyInfo.cs
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\obj\Debug\netstandard2.0\Cnty.QuartzExtensions.csproj.CoreCompileInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\obj\Debug\netstandard2.0\Cnty.QuartzExtensions.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.QuartzExtensions\obj\Debug\netstandard2.0\Cnty.QuartzExtensions.pdb

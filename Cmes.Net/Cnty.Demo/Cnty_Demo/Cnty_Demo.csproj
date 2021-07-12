@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Cnty.Base\Cnty.Core\Cnty.Core.csproj" />
+    <ProjectReference Include="..\..\Cnty.Base\Cnty.Entity\Cnty.Entity.csproj" />
+    <ProjectReference Include="..\..\Cnty.WebApi\Cnty.WebApi.csproj" />
+    <ProjectReference Include="..\Cnty.Order\Cnty.Order.csproj" />
+  </ItemGroup>
+
+</Project>

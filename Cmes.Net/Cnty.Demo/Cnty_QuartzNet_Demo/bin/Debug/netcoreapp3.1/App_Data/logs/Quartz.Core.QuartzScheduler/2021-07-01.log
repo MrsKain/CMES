@@ -1,0 +1,198 @@
+2021-07-01 08:37:37.1284 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 08:37:37.1420 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 08:37:37.1420 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 08:37:37.2947 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 08:39:20.7858 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 08:39:20.7978 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 08:39:20.7978 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 08:39:20.9527 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 08:43:29.0259 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 08:43:29.0319 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 08:43:29.0319 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 08:43:29.1912 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 08:57:52.6931 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 08:57:52.6931 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 08:57:52.6931 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 08:57:52.8521 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 09:02:21.3316 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 09:02:21.3316 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 09:02:21.3316 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 09:02:21.4917 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 09:17:54.2223 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 09:17:54.2345 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 09:17:54.2345 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 09:17:54.3852 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 09:54:28.5353 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 09:54:28.5487 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 09:54:28.5487 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 09:54:28.7141 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 09:56:16.7041 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 09:56:16.7041 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 09:56:16.7041 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 09:56:16.8673 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 10:15:03.3463 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 10:15:03.3463 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 10:15:03.3463 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 10:15:03.5032 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 10:18:51.1802 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 10:18:51.1877 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 10:18:51.1877 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 10:18:51.3482 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 10:19:28.6005 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 10:19:28.6127 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 10:19:28.6127 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 10:19:28.7672 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 13:09:28.0315 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 13:09:28.0315 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 13:09:28.0315 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 13:09:28.1942 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 13:13:56.4678 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 13:13:56.4678 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 13:13:56.4839 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 13:13:56.6324 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 13:28:43.4905 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 13:28:43.4905 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 13:28:43.4990 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 13:28:43.6522 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 13:29:15.0328 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 13:29:15.0480 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 13:29:15.0480 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 13:29:15.1885 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 14:08:32.7970 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 14:08:32.7970 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 14:08:32.7970 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 14:08:32.9568 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 14:10:16.6287 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 14:10:16.6411 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 14:10:16.6411 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 14:10:16.7878 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 
+2021-07-01 14:33:46.4528 Quartz.Core.QuartzScheduler Quartz Scheduler v.3.3.2.0 created. 
+2021-07-01 14:33:46.4701 Quartz.Core.QuartzScheduler Scheduler meta-data: Quartz Scheduler (v3.3.2.0) 'MESServer' with instanceId 'NON_CLUSTERED'
+  Scheduler class: 'Quartz.Core.QuartzScheduler' - running locally.
+  NOT STARTED.
+  Currently in standby mode.
+  Number of jobs executed: 0
+  Using thread pool 'Quartz.Simpl.DefaultThreadPool' - with 10 threads.
+  Using job-store 'Quartz.Simpl.RAMJobStore' - which does not support persistence. and is not clustered.
+ 
+2021-07-01 14:33:46.4701 Quartz.Core.QuartzScheduler JobFactory set to: QuartzExtensions.JobFactory 
+2021-07-01 14:33:46.6367 Quartz.Core.QuartzScheduler Scheduler MESServer_$_NON_CLUSTERED started. 

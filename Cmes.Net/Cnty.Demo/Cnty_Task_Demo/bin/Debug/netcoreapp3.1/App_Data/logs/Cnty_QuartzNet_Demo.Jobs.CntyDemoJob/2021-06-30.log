@@ -1,0 +1,35 @@
+2021-06-30 14:25:20.5511 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:03:44.1556 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:04:37.4192 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:10:40.9013 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:15:44.6030 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:19:27.9563 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionObject reference not set to an instance of an object. 
+2021-06-30 16:19:27.9563 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-06-30 16:19:29.8923 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:20:54.6230 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:21:40.1721 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionObject reference not set to an instance of an object. 
+2021-06-30 16:21:40.1721 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-06-30 16:21:42.3788 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:23:32.7748 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:24:32.7882 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 16:26:09.8106 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 17:35:51.5719 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:22:43.7841 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:24:35.0565 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:25:53.6601 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:33:59.2107 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:34:23.5238 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'VOL.Core.DBManager.DBServerProvider' threw an exception. 
+2021-06-30 18:35:08.7177 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-06-30 18:35:10.7131 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:35:11.7297 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'VOL.Core.DBManager.DBServerProvider' threw an exception. 
+2021-06-30 18:35:11.7297 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-06-30 18:35:12.8775 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:35:13.4651 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'VOL.Core.DBManager.DBServerProvider' threw an exception. 
+2021-06-30 18:35:13.4651 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-06-30 18:35:14.0905 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:35:14.8249 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'VOL.Core.DBManager.DBServerProvider' threw an exception. 
+2021-06-30 18:35:14.8249 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-06-30 18:35:15.4416 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-06-30 18:35:16.2173 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'VOL.Core.DBManager.DBServerProvider' threw an exception. 
+2021-06-30 18:35:16.2173 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-06-30 18:35:18.0169 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 

@@ -1,0 +1,580 @@
+2021-06-30 14:12:27.1726 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Found 4 job definitions. 
+2021-06-30 14:12:27.3245 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:25:14.5491 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:25:14.6365 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:25:14.6469 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:25:14.6676 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:25:14.6676 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:25:14.6676 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:31:27.6882 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:31:27.7877 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:31:27.7979 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:31:27.8178 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:31:27.8178 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:31:27.8178 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:33:35.6768 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:33:35.7564 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:33:35.7666 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:33:35.7867 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:33:35.7867 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:33:35.7867 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:35:30.7820 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:35:30.8646 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:35:30.8750 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:35:30.8949 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:35:30.8949 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:35:30.8949 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:41:44.2208 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:41:44.3116 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:41:44.3116 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:41:44.3116 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:41:44.3120 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:41:44.3415 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:41:44.3415 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:41:44.3449 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:42:46.4267 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:42:46.5196 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:42:46.5492 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:42:46.5492 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:42:46.5492 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:43:20.7205 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:43:20.8141 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:43:20.8438 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:43:20.8438 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:43:20.8438 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:45:34.8973 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:45:34.9765 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:45:34.9865 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:45:35.0062 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:45:35.0062 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:45:35.0062 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:50:56.9853 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:50:57.0762 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:50:57.0780 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:50:57.0780 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:50:57.0780 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:50:57.1059 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:50:57.1059 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:50:57.1092 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:54:25.1317 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:54:25.2241 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:54:25.2342 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:54:25.2544 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:54:25.2544 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:54:25.2544 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 14:59:47.2364 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 14:59:47.3381 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 14:59:47.3489 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 14:59:47.3698 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 14:59:47.3698 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 14:59:47.3698 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:00:56.6244 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:00:56.7146 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:00:56.7249 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:00:56.7454 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:00:56.7454 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:00:56.7454 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:01:47.1570 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:01:47.2539 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:01:47.2850 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:01:47.2850 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:01:47.2850 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:26:00.6089 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:26:00.7091 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:26:00.7194 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:26:00.7391 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:26:00.7391 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:26:00.7391 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:26:40.2816 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:26:40.3692 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:26:40.3797 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:26:40.4001 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:26:40.4001 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:26:40.4001 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:28:39.0219 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:28:39.1044 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:28:39.1145 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:28:39.1346 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:28:39.1346 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:28:39.1346 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:44:02.7253 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:44:02.8101 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:44:02.8123 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:44:02.8123 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:44:02.8405 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:44:02.8405 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:44:02.8440 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:45:47.1891 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:45:47.2824 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:45:47.3130 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:45:47.3130 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:45:47.3130 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:47:03.9077 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:47:03.9971 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:47:03.9991 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:47:03.9991 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:47:03.9991 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:47:04.0271 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:47:04.0271 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:47:04.0271 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:47:39.8746 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:47:39.9669 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:47:39.9687 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:47:39.9687 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:47:39.9687 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:47:39.9966 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:47:39.9966 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:47:39.9999 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 15:57:47.7261 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 15:57:47.8054 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 15:57:47.8156 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 15:57:47.8357 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 15:57:47.8357 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 15:57:47.8357 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:03:40.0670 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:03:40.1476 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:03:40.1576 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:03:40.1774 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:03:40.1774 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:03:40.1774 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:04:34.3771 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:04:34.4662 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:04:34.4681 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:04:34.4681 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:04:34.4681 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:04:34.4968 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:04:34.4968 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:04:34.5004 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:10:07.0469 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:10:07.1511 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:10:07.1618 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:10:07.1821 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:10:07.1821 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:10:07.1821 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:15:42.0377 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:15:42.1175 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:15:42.1276 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:15:42.1478 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:15:42.1478 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:15:42.1478 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:20:46.7020 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:20:46.7910 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:20:46.8010 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:20:46.8207 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:20:46.8207 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:20:46.8207 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:23:29.3652 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:23:29.4456 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:23:29.4559 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:23:29.4760 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:23:29.4760 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:23:29.4760 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:24:30.8968 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:24:30.9751 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:24:30.9852 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:24:31.0056 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:24:31.0056 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:24:31.0056 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 16:26:08.1802 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 16:26:08.2742 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 16:26:08.2860 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 16:26:08.3071 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 16:26:08.3071 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 16:26:08.3071 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 17:33:11.0228 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 17:33:11.1109 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 17:33:11.1414 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 17:33:11.1414 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 17:33:11.1414 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 17:35:48.4276 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 17:35:48.5104 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 17:35:48.5205 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 17:35:48.5401 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 17:35:48.5401 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 17:35:48.5401 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 17:50:39.8942 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 17:50:39.9817 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 17:50:39.9920 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 17:50:40.0119 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 17:50:40.0119 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 17:50:40.0154 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 17:55:58.4367 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 17:55:58.5209 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 17:55:58.5311 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 17:55:58.5509 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 17:55:58.5509 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 17:55:58.5509 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 17:58:25.0799 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 17:58:25.1750 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 17:58:25.1922 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 17:58:25.2119 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 17:58:25.2119 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 17:58:25.2119 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 18:22:39.7989 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 18:22:39.8914 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 18:22:39.9213 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 18:22:39.9213 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 18:22:39.9213 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 18:24:31.9063 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 18:24:32.0036 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 18:24:32.0337 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 18:24:32.0337 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 18:24:32.0337 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 18:25:49.6484 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 18:25:49.7301 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 18:25:49.7405 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 18:25:49.7604 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 18:25:49.7604 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 18:25:49.7604 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 
+2021-06-30 18:33:55.5831 Quartz.Xml.XMLSchedulingDataProcessor Parsing XML file: F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Demo\Cnty_QuartzNet_Demo\bin\Debug\netcoreapp3.1\App_Data/config/quartz_jobs.xml with systemId: ~/App_Data/config/quartz_jobs.xml 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job group commands. 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger group commands. 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete job commands. 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Found 0 delete trigger commands. 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Directive 'overwrite-existing-data' specified as: True 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Directive 'ignore-duplicates' specified as: False 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Directive 'schedule-trigger-relative-to-replaced-trigger' specified as: False 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Found 1 job definitions. 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Parsed job definition: JobDetail 'CntyDemoJobGroup.CntyDemoJob':  jobType: 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob persistJobDataAfterExecution: False concurrentExecutionDisallowed: True isDurable: True requestsRecovers: False 
+2021-06-30 18:33:55.6648 Quartz.Xml.XMLSchedulingDataProcessor Found 1 trigger definitions. 
+2021-06-30 18:33:55.6750 Quartz.Xml.XMLSchedulingDataProcessor Parsed trigger definition: Trigger 'CntyDemoJobTriggerGroup.CntyDemoJobTrigger':  triggerClass: 'Quartz.Impl.Triggers.CronTriggerImpl calendar: '' misfireInstruction: 0 nextFireTime:  
+2021-06-30 18:33:55.6952 Quartz.Xml.XMLSchedulingDataProcessor Adding 1 jobs, 1 triggers. 
+2021-06-30 18:33:55.6952 Quartz.Xml.XMLSchedulingDataProcessor Adding job: CntyDemoJobGroup.CntyDemoJob 
+2021-06-30 18:33:55.6952 Quartz.Xml.XMLSchedulingDataProcessor Scheduling job: CntyDemoJobGroup.CntyDemoJob with trigger: CntyDemoJobTriggerGroup.CntyDemoJobTrigger 

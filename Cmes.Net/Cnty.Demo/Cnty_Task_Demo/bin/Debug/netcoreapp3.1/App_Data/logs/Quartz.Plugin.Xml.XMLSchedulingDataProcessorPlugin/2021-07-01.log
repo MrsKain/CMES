@@ -1,0 +1,25 @@
+2021-07-01 08:37:37.1420 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 08:39:20.7978 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 08:43:29.0259 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 08:57:52.6931 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 09:02:21.3316 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 09:17:54.2345 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 09:54:28.5487 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 09:56:16.7041 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 10:15:03.3463 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 10:18:51.1802 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 10:19:28.6127 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 13:09:28.0315 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 13:13:56.4678 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 13:28:43.4905 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 13:29:15.0328 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 14:08:32.7970 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 14:10:16.6411 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 14:33:46.4528 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 15:05:46.0677 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-07-01 15:05:53.5895 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Could not schedule jobs and triggers from file ~/App_Data/config/quartz_jobs.xml: Could not load type 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob,Cnty_QuartzNet_Demo' System.TypeLoadException: Could not load type 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob,Cnty_QuartzNet_Demo'
+   at Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   at Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   at Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId, CancellationToken cancellationToken)
+   at Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched, CancellationToken cancellationToken)
+   at Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile, CancellationToken cancellationToken)

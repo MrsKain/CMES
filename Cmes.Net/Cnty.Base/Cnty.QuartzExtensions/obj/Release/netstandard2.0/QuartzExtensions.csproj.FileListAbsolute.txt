@@ -1,0 +1,9 @@
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\bin\Release\netstandard2.0\QuartzExtensions.deps.json
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\bin\Release\netstandard2.0\QuartzExtensions.dll
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\bin\Release\netstandard2.0\QuartzExtensions.pdb
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\obj\Release\netstandard2.0\QuartzExtensions.csprojAssemblyReference.cache
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\obj\Release\netstandard2.0\QuartzExtensions.AssemblyInfoInputs.cache
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\obj\Release\netstandard2.0\QuartzExtensions.AssemblyInfo.cs
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\obj\Release\netstandard2.0\QuartzExtensions.csproj.CoreCompileInputs.cache
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\obj\Release\netstandard2.0\QuartzExtensions.dll
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\QuartzExtensions\obj\Release\netstandard2.0\QuartzExtensions.pdb

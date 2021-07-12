@@ -1,0 +1,45 @@
+2021-06-30 14:12:27.1581 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:12:27.3295 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Could not schedule jobs and triggers from file ~/App_Data/config/quartz_jobs.xml: Could not load type 'Derik.MOM.BIService.Jobs.RpbiOrdercostJob,Derik.MOM.BIService' System.TypeLoadException: Could not load type 'Derik.MOM.BIService.Jobs.RpbiOrdercostJob,Derik.MOM.BIService'
+   at Quartz.Simpl.SimpleTypeLoadHelper.LoadType(String name)
+   at Quartz.Xml.XMLSchedulingDataProcessor.ProcessInternal(String xml)
+   at Quartz.Xml.XMLSchedulingDataProcessor.ProcessFile(String fileName, String systemId, CancellationToken cancellationToken)
+   at Quartz.Xml.XMLSchedulingDataProcessor.ProcessFileAndScheduleJobs(String fileName, String systemId, IScheduler sched, CancellationToken cancellationToken)
+   at Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin.ProcessFile(JobFile jobFile, CancellationToken cancellationToken)
+2021-06-30 14:25:14.5373 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:31:27.6766 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:33:35.6591 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:35:30.7532 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:41:44.2087 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:42:40.5646 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:43:20.7085 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:45:34.8757 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:50:56.9734 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:54:25.1092 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 14:59:47.2235 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:00:56.6126 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:01:47.1453 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:26:00.6016 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:26:40.2697 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:28:39.0008 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:44:02.7056 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:45:47.1720 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:47:03.8956 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:47:39.8589 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 15:57:47.7050 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:03:40.0504 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:04:34.3655 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:10:07.0392 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:15:42.0162 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:20:46.6895 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:23:29.3434 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:24:30.8750 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 16:26:08.1588 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 17:33:11.0016 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 17:35:48.4058 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 17:50:27.1729 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 17:55:58.4072 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 17:58:25.0681 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 18:22:39.7867 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 18:24:31.8910 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 18:25:49.6258 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 
+2021-06-30 18:33:55.5616 Quartz.Plugin.Xml.XMLSchedulingDataProcessorPlugin Registering Quartz Job Initialization Plug-in. 

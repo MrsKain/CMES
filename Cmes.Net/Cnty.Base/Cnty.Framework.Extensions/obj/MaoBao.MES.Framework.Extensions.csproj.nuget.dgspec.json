@@ -1,0 +1,490 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\MaoBao.Framework.Extensions\\MaoBao.MES.Framework.Extensions.csproj": {}
+  },
+  "projects": {
+    "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Bll\\Derik.MES.Framework.Bll.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Bll\\Derik.MES.Framework.Bll.csproj",
+        "projectName": "Derik.MES.Framework.Bll",
+        "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Bll\\Derik.MES.Framework.Bll.csproj",
+        "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
+        "outputPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\Derik.MES.Framework.Common.csproj": {
+                "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\Derik.MES.Framework.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\Derik.MES.Framework.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\Derik.MES.Framework.Common.csproj",
+        "projectName": "Derik.MES.Framework.Common",
+        "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\Derik.MES.Framework.Common.csproj",
+        "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
+        "outputPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.601, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\MaoBao.MES.Framework.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\MaoBao.MES.Framework.Common.csproj",
+        "projectName": "MaoBao.MES.Framework.Common",
+        "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\MaoBao.MES.Framework.Common.csproj",
+        "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
+        "outputPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "EPPlus": {
+              "target": "Package",
+              "version": "[4.5.3.1, )"
+            },
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Core": {
+              "target": "Package",
+              "version": "[2.2.5, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.4, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.IdentityModel.Tokens": {
+              "target": "Package",
+              "version": "[6.7.1, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.0.601, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[4.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Dal\\MaoBao.MES.Framework.Dal.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Dal\\MaoBao.MES.Framework.Dal.csproj",
+        "projectName": "Derik.MES.Framework.Dal",
+        "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Dal\\MaoBao.MES.Framework.Dal.csproj",
+        "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
+        "outputPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Dal\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Bll\\Derik.MES.Framework.Bll.csproj": {
+                "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Bll\\Derik.MES.Framework.Bll.csproj"
+              },
+              "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\MaoBao.MES.Framework.Common.csproj": {
+                "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\MaoBao.MES.Framework.Common.csproj"
+              },
+              "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\MaoBao.MES.Framework.Domain.csproj": {
+                "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\MaoBao.MES.Framework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.60.6, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.Logging": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\MaoBao.MES.Framework.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\MaoBao.MES.Framework.Domain.csproj",
+        "projectName": "Siemens.SimaticIT.SystemData.Domain",
+        "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\MaoBao.MES.Framework.Domain.csproj",
+        "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
+        "outputPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Alexinea.Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\MaoBao.Framework.Extensions\\MaoBao.MES.Framework.Extensions.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\MaoBao.Framework.Extensions\\MaoBao.MES.Framework.Extensions.csproj",
+        "projectName": "Derik.MES.Framework.Extensions",
+        "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\MaoBao.Framework.Extensions\\MaoBao.MES.Framework.Extensions.csproj",
+        "packagesPath": "C:\\Users\\colin\\.nuget\\packages\\",
+        "outputPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\MaoBao.Framework.Extensions\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\colin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\Derik.MES.Framework.Common.csproj": {
+                "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Common\\MaoBao.Framework.Common\\Derik.MES.Framework.Common.csproj"
+              },
+              "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Dal\\MaoBao.MES.Framework.Dal.csproj": {
+                "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Dal\\MaoBao.MES.Framework.Dal.csproj"
+              },
+              "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\MaoBao.MES.Framework.Domain.csproj": {
+                "projectPath": "D:\\Derik_Project\\Derik_Service\\MB_MES_V2\\MaoBao.MOM.Framework\\Domain\\MaoBao.MES.Framework.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Alexinea.Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[4.2.0, )"
+            },
+            "Autofac": {
+              "target": "Package",
+              "version": "[4.9.1, )"
+            },
+            "Microsoft.Extensions.DependencyModel": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

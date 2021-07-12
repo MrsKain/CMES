@@ -1,0 +1,30 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="5.0.1" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="3.1.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0-rc5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Download\" />
+    <Folder Include="Upload\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Cnty.Base\Cnty.Builder\Cnty.Builder.csproj" />
+    <ProjectReference Include="..\Cnty.Base\Cnty.Core\Cnty.Core.csproj" />
+    <ProjectReference Include="..\Cnty.Base\Cnty.Entity\Cnty.Entity.csproj" />
+    <ProjectReference Include="..\Cnty.Base\Cnty.System\Cnty.System.csproj" />
+    <ProjectReference Include="..\Cnty.Demo\Cnty.AppManager\Cnty.AppManager.csproj" />
+    <ProjectReference Include="..\Cnty.Demo\Cnty.Order\Cnty.Order.csproj" />
+    <ProjectReference Include="..\Cnty.Rgm\Cnty.Rgm\Cnty.Rgm.csproj" />
+    <ProjectReference Include="..\Cnty.Scada\Cnty.Scada\Cnty.Scada.csproj" />
+  </ItemGroup>
+
+
+</Project>

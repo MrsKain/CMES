@@ -1,0 +1,16 @@
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\obj\Debug\netcoreapp3.1\Cnty.Framework.Extension.csproj.AssemblyReference.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\obj\Debug\netcoreapp3.1\Cnty.Framework.Extension.AssemblyInfoInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\obj\Debug\netcoreapp3.1\Cnty.Framework.Extension.AssemblyInfo.cs
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\obj\Debug\netcoreapp3.1\Cnty.Framework.Extension.csproj.CoreCompileInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Cnty.Framework.Extension.deps.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Cnty.Framework.Extension.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Cnty.Framework.Extension.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Cnty.Core.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Cnty.Entity.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Siemens.SimaticIT.SystemData.Domain.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Cnty.Core.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Siemens.SimaticIT.SystemData.Domain.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\bin\Debug\netcoreapp3.1\Cnty.Entity.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\obj\Debug\netcoreapp3.1\Cnty.Framework.Extension.csproj.CopyComplete
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\obj\Debug\netcoreapp3.1\Cnty.Framework.Extension.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extension\obj\Debug\netcoreapp3.1\Cnty.Framework.Extension.pdb

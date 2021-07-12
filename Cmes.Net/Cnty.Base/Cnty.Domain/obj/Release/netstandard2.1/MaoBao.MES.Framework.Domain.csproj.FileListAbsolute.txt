@@ -1,0 +1,9 @@
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\bin\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.deps.json
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\bin\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.dll
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\bin\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.pdb
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\obj\Release\netstandard2.1\MaoBao.MES.Framework.Domain.AssemblyInfoInputs.cache
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\obj\Release\netstandard2.1\MaoBao.MES.Framework.Domain.AssemblyInfo.cs
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\obj\Release\netstandard2.1\MaoBao.MES.Framework.Domain.csproj.CoreCompileInputs.cache
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\obj\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.dll
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\obj\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.pdb
+E:\MB\MB_MES_V2\MaoBao.MOM.Framework\Domain\obj\Release\netstandard2.1\MaoBao.MES.Framework.Domain.csprojAssemblyReference.cache

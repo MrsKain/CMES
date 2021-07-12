@@ -1,0 +1,13 @@
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\bin\Debug\netcoreapp3.1\Cnty_Scada_Collection.exe
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\bin\Debug\netcoreapp3.1\Cnty_Scada_Collection.deps.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\bin\Debug\netcoreapp3.1\Cnty_Scada_Collection.runtimeconfig.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\bin\Debug\netcoreapp3.1\Cnty_Scada_Collection.runtimeconfig.dev.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\bin\Debug\netcoreapp3.1\Cnty_Scada_Collection.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\bin\Debug\netcoreapp3.1\Cnty_Scada_Collection.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\obj\Debug\netcoreapp3.1\Cnty_Scada_Collection.AssemblyInfoInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\obj\Debug\netcoreapp3.1\Cnty_Scada_Collection.AssemblyInfo.cs
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\obj\Debug\netcoreapp3.1\Cnty_Scada_Collection.csproj.CoreCompileInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\obj\Debug\netcoreapp3.1\Cnty_Scada_Collection.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\obj\Debug\netcoreapp3.1\Cnty_Scada_Collection.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\obj\Debug\netcoreapp3.1\Cnty_Scada_Collection.genruntimeconfig.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Scada\Cnty_Scada_Collection\obj\Debug\netcoreapp3.1\Cnty_Scada_Collection.csproj.AssemblyReference.cache

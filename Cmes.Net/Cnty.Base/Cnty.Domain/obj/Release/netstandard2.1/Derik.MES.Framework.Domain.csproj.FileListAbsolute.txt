@@ -1,0 +1,9 @@
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\bin\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.deps.json
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\bin\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.dll
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\bin\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.pdb
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\obj\Release\netstandard2.1\Derik.MES.Framework.Domain.csprojAssemblyReference.cache
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\obj\Release\netstandard2.1\Derik.MES.Framework.Domain.AssemblyInfoInputs.cache
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\obj\Release\netstandard2.1\Derik.MES.Framework.Domain.AssemblyInfo.cs
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\obj\Release\netstandard2.1\Derik.MES.Framework.Domain.csproj.CoreCompileInputs.cache
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\obj\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.dll
+D:\Derik_Project\Derik_Service\MB_MES_V2\Derik.MOM.Framework\Domain\obj\Release\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.pdb

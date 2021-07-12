@@ -1,0 +1,9 @@
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\bin\Debug\netcoreapp3.1\Cnty.Spc.deps.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\bin\Debug\netcoreapp3.1\Cnty.Spc.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\bin\Debug\netcoreapp3.1\Cnty.Spc.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\obj\Debug\netcoreapp3.1\Cnty.Spc.AssemblyInfoInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\obj\Debug\netcoreapp3.1\Cnty.Spc.AssemblyInfo.cs
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\obj\Debug\netcoreapp3.1\Cnty.Spc.csproj.CoreCompileInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\obj\Debug\netcoreapp3.1\Cnty.Spc.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\obj\Debug\netcoreapp3.1\Cnty.Spc.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Spc\Cnty.Spc\obj\Debug\netcoreapp3.1\Cnty.Spc.csproj.AssemblyReference.cache

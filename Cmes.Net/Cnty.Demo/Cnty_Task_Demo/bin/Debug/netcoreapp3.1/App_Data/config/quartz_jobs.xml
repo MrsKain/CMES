@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- This file contains job definitions in schema version 2.0 format -->
+
+<job-scheduling-data xmlns="http://quartznet.sourceforge.net/JobSchedulingData" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.0">
+
+  <processing-directives>
+    <overwrite-existing-data>true</overwrite-existing-data>
+  </processing-directives>
+  <schedule>
+
+    <job>
+      <name>CntyDemoJob</name>
+      <group>CntyDemoJobGroup</group>
+      <description>CntyDemoJob Demo</description>
+      <job-type>Cnty_QuartzNet_Demo.Jobs.CntyDemoJob,Cnty_QuartzNet_Demo</job-type>
+      <durable>true</durable>
+      <recover>false</recover>
+    </job>
+    <trigger>
+      <cron>
+        <name>CntyDemoJobTrigger</name>
+        <group>CntyDemoJobTriggerGroup</group>
+        <job-name>CntyDemoJob</job-name>
+        <job-group>CntyDemoJobGroup</job-group>  
+        <cron-expression>*/1 * * * * ?</cron-expression>
+        <!--<cron-expression>0 10 08 ? * *</cron-expression>-->
+      </cron>
+    </trigger>   
+  </schedule>
+</job-scheduling-data>

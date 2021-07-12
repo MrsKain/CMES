@@ -1,0 +1,25 @@
+2021-07-01 08:37:40.4262 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 08:39:24.4987 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 08:43:31.7307 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 08:57:54.2921 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 08:59:48.3811 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'VOL.Core.DBManager.DBServerProvider' threw an exception. 
+2021-07-01 08:59:48.3811 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-07-01 08:59:50.0279 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 09:02:22.4065 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 09:02:40.3535 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob' threw an exception. 
+2021-07-01 09:17:56.1069 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 09:54:29.6039 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 09:55:17.6714 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe type initializer for 'Cnty_QuartzNet_Demo.Jobs.CntyDemoJob' threw an exception. 
+2021-07-01 09:55:19.7781 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-07-01 09:55:23.4486 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 09:56:17.7033 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 10:19:30.1812 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 13:09:29.4212 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 13:10:06.2504 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob DoActionThe property 'App_Expert.AuditId' could not be mapped, because it is of type 'string' which is not a supported primitive type or a valid entity type. Either explicitly map this property, or ignore it using the '[NotMapped]' attribute or by using 'EntityTypeBuilder.Ignore' in 'OnModelCreating'. 
+2021-07-01 13:10:06.2504 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-07-01 13:10:08.8559 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 13:13:57.6336 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 13:14:07.8414 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务结束 
+2021-07-01 13:14:08.8492 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 14:08:37.1841 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 
+2021-07-01 14:33:48.4653 Cnty_QuartzNet_Demo.Jobs.CntyDemoJob 任务执行 

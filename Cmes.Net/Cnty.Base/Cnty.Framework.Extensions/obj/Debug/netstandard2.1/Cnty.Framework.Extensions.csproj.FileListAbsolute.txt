@@ -1,0 +1,12 @@
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\bin\Debug\netstandard2.1\Cnty.Framework.Extensions.deps.json
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\bin\Debug\netstandard2.1\Cnty.Framework.Extensions.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\bin\Debug\netstandard2.1\Cnty.Framework.Extensions.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\bin\Debug\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\bin\Debug\netstandard2.1\Siemens.SimaticIT.SystemData.Domain.pdb
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\obj\Debug\netstandard2.1\Cnty.Framework.Extensions.csproj.AssemblyReference.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\obj\Debug\netstandard2.1\Cnty.Framework.Extensions.AssemblyInfoInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\obj\Debug\netstandard2.1\Cnty.Framework.Extensions.AssemblyInfo.cs
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\obj\Debug\netstandard2.1\Cnty.Framework.Extensions.csproj.CoreCompileInputs.cache
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\obj\Debug\netstandard2.1\Cnty.Framework.Extensions.csproj.CopyComplete
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\obj\Debug\netstandard2.1\Cnty.Framework.Extensions.dll
+F:\20210607项目备份\VueMaster_20210617\Vue.NetCore\Vue.Net\Cnty.Base\Cnty.Framework.Extensions\obj\Debug\netstandard2.1\Cnty.Framework.Extensions.pdb
